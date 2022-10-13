@@ -5,4 +5,9 @@ You can find all the required material for your programming here. If you have an
 
 - The first sample file that I prepared is all about the basic functions related to a single qubit.
 
+You can access to google colab and IBM quantum lab in order to run your qiskit codes from the following links.
+ - https://colab.research.google.com/
+   - Tuturial for google colab : https://www.youtube.com/watch?v=nbkE4jyBEI4&ab_channel=SelfStudyTutorials
+ - https://lab.quantum-computing.ibm.com/
+
 
