@@ -1,22 +1,24 @@
 ![image](https://user-images.githubusercontent.com/58440271/195145571-35ce79ff-8e6f-492d-80c9-7afb6fcf25e0.png)
 
 Dear Colleagues,
-You can find all the required material for your programming here. If you have any problem you can send an email to "eboosari@ku.edu.tr".
 
-- The first sample file that I prepared is all about the basic functions related to a single qubit.
+Welcome to this repository, your go-to resource for all the materials you'll need for programming. Should you encounter any issues or have questions, please feel free to reach out via email at "e.rezaei-fard-boosari@uw.edu.pl."
 
-You can access two platforms for working online with Python and Qiskit without installing the on your local machine.
+Our first sample file is a comprehensive guide covering the basic functions related to a single qubit.
 
-1- Google Colab:
- - https://colab.research.google.com/
- 
- Tutorial for google colab
-   - Tuturial for google colab : https://www.youtube.com/watch?v=nbkE4jyBEI4&ab_channel=SelfStudyTutorials
- 
- 2- IBM Quantum Lab 
-  - https://lab.quantum-computing.ibm.com/
-  
-  Tutorial for IBM Quantum Lab 
-  https://www.youtube.com/watch?v=zHGJvnLUGOU&ab_channel=JohnFC
+Moreover, you have access to two convenient online platforms for Python and Qiskit, eliminating the need for local installations:
+
+Google Colab:
+
+Access Link: https://colab.research.google.com/
+
+Google Colab Tutorial: Watch the Tutorial
+
+IBM Quantum Lab:
+
+Access Link: https://lab.quantum-computing.ibm.com/
+
+IBM Quantum Lab Tutorial: Watch Tutorial
+
 
 
