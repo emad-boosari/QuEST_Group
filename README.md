@@ -20,5 +20,6 @@ Access Link: https://lab.quantum-computing.ibm.com/
 
 IBM Quantum Lab Tutorial: Watch Tutorial
 
+Happy coding!
 
 
